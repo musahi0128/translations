@@ -69,7 +69,7 @@ I18n.en =
     properties_publish: "Publish as template"
     properties_template_info: "(Templates are visible to every user)"
     properties_delete_schema: "Delete Schema"
-    properties_delete_alert: "(You will permenantly delete this schema and all associated comments)"
+    properties_delete_alert: "(You will permanently delete this schema and all associated comments)"
     properties_save: "Save Changes"
     share: "Share"
     share_info: "You can share your schema with up to 5 users"
