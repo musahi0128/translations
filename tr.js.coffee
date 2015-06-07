@@ -126,7 +126,7 @@ I18n.tr =
     field_primary_key: "Birincil Anahtar"
     field_foreign_key: "Yabancı Anahtar"
     field_save: "Kaydet"
-    field_update: "Update"
+    field_update: "Kaydet"
     field_cancel: "İptal"
     field_delete: "Alanı Sil"
     field_delete_alert: "Bu alanı silmek istediğinizden emin misiniz?\n(onay olmadan silmek için silerken SHIFT tuşunu basılı tutun)"
