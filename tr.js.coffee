@@ -18,6 +18,8 @@ I18n.tr =
     view: "Görünüm"
     show_minimap: "Haritayı Göster"
     hide_minimap: "Haritayı Gizle"
+    show_sidebar: "Yan Paneli Göster"
+    hide_sidebar: "Yan Paneli Gizle"
     sort_items: "Sırala"
     linetype: "Çizgi Şekli"
     bezier: "Bezier"
@@ -35,6 +37,7 @@ I18n.tr =
     guest: "Misafir"
     login: "Giriş"
     logout: "Çıkış"
+    settings: "Ayarlar"
   panel:
     history: "Geçmiş"
     last_versions_label: "Bu şemanın son 10 hali:"
@@ -80,6 +83,7 @@ I18n.tr =
     share_send_email: "Davet için e-posta gönder"
     share_invite_button: "Davet Et"
     share_collaborators: "Erişimi olan kullanıcılar:"
+    import: "Import Sql"
     login_email: "E-posta"
     login_password: "Şifre"
     login_button: "Giriş"
@@ -108,6 +112,9 @@ I18n.tr =
     feedback_button: "Gönder"
     about: "DbDesigner.net Hakkında"
     user_settings: "Kullanıcı Ayarları"
+    user_settings_username: "Kullanıcı Adı"
+    user_settings_email: "E-posta"
+    user_settings_save: "Değişiklikleri Kaydet"
     login: "Giriş"
     close: "Kapat"
   designer:
@@ -132,3 +139,8 @@ I18n.tr =
     field_delete_alert: "Bu alanı silmek istediğinizden emin misiniz?\n(onay olmadan silmek için silerken SHIFT tuşunu basılı tutun)"
     field_ref_table: "Ref. Tablo"
     field_ref_field: "Ref. Alan"
+  alerts:
+    delete_schema: "Bu şemayı silmek istediğinize emin misiniz?"
+    server_error: "Sunucu hatası"
+    schema_owner_error: "Sadece şema sahibi bu işlemi gerçekleştirebilir"
+    login_to_use_this_function: "Bu işlevi kullanabilmek için giriş yapmalısınız"

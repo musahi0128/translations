@@ -18,6 +18,8 @@ I18n.en =
     view: "View"
     show_minimap: "Show Minimap"
     hide_minimap: "Hide Minimap"
+    show_sidebar: "Show Sidebar"
+    hide_sidebar: "Hide Sidebar"
     sort_items: "Sort Items"
     linetype: "Line Type"
     bezier: "Bezier"
@@ -35,6 +37,7 @@ I18n.en =
     guest: "Guest"
     login: "Login"
     logout: "Logout"
+    settings: "Settings"
   panel:
     history: "History"
     last_versions_label: "Last 10 versions of this schema:"
@@ -80,6 +83,7 @@ I18n.en =
     share_send_email: "Send invitation e-mail"
     share_invite_button: "Invite"
     share_collaborators: "Collaborators:"
+    import: "Import Sql"
     login_email: "E-mail"
     login_password: "Password"
     login_button: "Login"
@@ -108,6 +112,9 @@ I18n.en =
     feedback_button: "Send Feedback"
     about: "About dbdesigner.net"
     user_settings: "User Settings"
+    user_settings_username: "Username"
+    user_settings_email: "E-mail"
+    user_settings_save: "Save Changes"
     login: "Login"
     close: "Close"
   designer:
@@ -132,3 +139,8 @@ I18n.en =
     field_delete_alert: "Are you sure you want to delete this field?\n(hold shift to delete without confirmation)"
     field_ref_table: "Ref. Table"
     field_ref_field: "Ref. Field"
+  alerts:
+    delete_schema: "Are you sure you want to delete this schema?"
+    server_error: "A server error occurred"
+    schema_owner_error: "Only the schema owner can change share settings"
+    login_to_use_this_function: "You should login to use this function"
