@@ -1,4 +1,4 @@
-I18n.en =
+I18n.vi =
   menu:
     schema: "Lược đồ"
     new: "Tạo mới ..."
