@@ -99,6 +99,7 @@ I18n.en =
     export_image_zoomin: "Zoom in"
     export_image_zoomout: "Zoom out"
     export_image_reset: "Reset"
+    export_image_open_in_new_tab: "Open image in new tab"
     help: "Help"
     shortcuts: "Keyboard Shortcuts"
     help_changelog: "Changes"

@@ -99,6 +99,7 @@ I18n.tr =
     export_image_zoomin: "Yakınlaştır"
     export_image_zoomout: "Uzaklaştır"
     export_image_reset: "Sıfırla"
+    export_image_open_in_new_tab: "Resmi yeni sekmede aç"
     help: "Yardım"
     shortcuts: "Klavye Kısayolları"
     help_changelog: "Değişiklikler"

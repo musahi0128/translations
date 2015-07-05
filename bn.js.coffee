@@ -99,6 +99,7 @@ I18n.bn =
     export_image_zoomin: "বড় কর"
     export_image_zoomout: "ছোট কর"
     export_image_reset: "রিসেট"
+    export_image_open_in_new_tab: "Open image in new tab"
     help: "সহায়তা"
     shortcuts: "কীবোর্ড শর্টকাট"
     help_changelog: "পরিবর্তনগুলো"

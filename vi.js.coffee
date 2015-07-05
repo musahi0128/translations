@@ -99,6 +99,7 @@ I18n.vi =
     export_image_zoomin: "Phóng to"
     export_image_zoomout: "Thu nhỏ"
     export_image_reset: "Khôi phục"
+    export_image_open_in_new_tab: "Open image in new tab"
     help: "Trợ giúp"
     shortcuts: "Phím tắt"
     help_changelog: "Thay đổi"
