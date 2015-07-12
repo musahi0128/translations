@@ -98,7 +98,7 @@ I18n.ru =
     export_image_zoomin: "Увеличение"
     export_image_zoomout: "Уменьшение"
     export_image_reset: "Сброс"
-    export_image_open_in_new_tab: "Open image in new tab"
+    export_image_open_in_new_tab: "Открыть изображение в новой вкладке"
     help: "Справка"
     shortcuts: "Горячие клавиши"
     help_changelog: "Изменения"
