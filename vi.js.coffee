@@ -36,7 +36,7 @@ I18n.vi =
     about: "Về"
     guest: "Khách"
     login: "Đăng nhập"
-    logout: "Đăng ký"
+    logout: "Đăng xuất"
     settings: "Cài đặt"
   panel:
     history: "Lịch sử"
@@ -99,7 +99,7 @@ I18n.vi =
     export_image_zoomin: "Phóng to"
     export_image_zoomout: "Thu nhỏ"
     export_image_reset: "Khôi phục"
-    export_image_open_in_new_tab: "Open image in new tab"
+    export_image_open_in_new_tab: "Mở hình ảnh trong tab mới"
     help: "Trợ giúp"
     shortcuts: "Phím tắt"
     help_changelog: "Thay đổi"
