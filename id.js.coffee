@@ -15,7 +15,7 @@ I18n.id =
     insert: "Sisipkan"
     table: "Table"
     note: "Catatan"
-    view: "Pandangan"
+    view: "Tampilan"
     show_minimap: "Perlihatkan Minimap"
     hide_minimap: "Sembunyikan Minimap"
     show_sidebar: "Perlihatkan Sidebar"
